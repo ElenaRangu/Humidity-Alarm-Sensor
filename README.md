@@ -1,5 +1,6 @@
 TinkerCAD: https://www.tinkercad.com/things/gXKSRUrPZGG-proiect-39/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Ddesigns
 The Moisture Sensor Alarm System is a project designed to monitor the humidity levels in the environment and trigger alarms based on predefined thresholds. This documentation provides a comprehensive overview of the project, including its components, functionality, implementation details, and simulated setup using Tinkercad.
+Implemented in TinkerCAD, Program language: C++ 
 
 Tinkercad Simulation Setup:
 
